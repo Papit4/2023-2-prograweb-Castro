@@ -1,0 +1,54 @@
+.navegacion {
+    font-family: Arial, Helvetica, sans-serif;
+    height: 50px;
+   
+
+    
+}
+.logosony {
+    margin-left: 1200px;
+    align-items: center;
+}
+
+.sonyazul {
+    height: 30px;
+}
+
+.header{
+    height: 70px;
+    background-color: black;
+}
+.arrow {
+    border: solid black;
+    border-width: 0 3px 3px 0;
+    display: inline-block;
+    padding: 3px;
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+    margin-left: 10px;
+}
+
+.haland {
+    width: 100%;
+}
+
+li {
+
+    margin-left: 100px;
+    list-style-type: none;
+
+}
+
+.carro {
+    max-width: 250px;
+    border-bottom: 100%;
+    border-radius: 5%;
+}
+button{
+    border-radius:30% ;
+    background-color: white;
+
+}
+.text {
+    padding-bottom: 100px;
+}
